@@ -1,8 +1,9 @@
 title: Oryiman Ayaka
-description: Ghostwriter
+description: "Oryiman Ayaka is a ghostwriter for founders, executives and experts. I write articles, LinkedIn posts, newsletters, speeches, business and legal content in your voice, so your ideas reach readers under your name. Read my essays and newsletter."
 timezone: Africa/Lagos
 permalink: /essays/:title/
-newsletter_url: https://substack.com/@thehiddenlogic?utm_source=share&utm_medium=android&r=1ksn5l
+newsletter_url: https://yourname.substack.com
+
 defaults:
   - scope:
       path: ""
